@@ -1,8 +1,6 @@
-Aquest projecte és només per a visualització acadèmica. No es permet l’ús, còpia, modificació ni distribució sense autorització expressa.
 
 Pràctica 1 – Comunicació Serial USB amb ESP32 Objectiu
 
-Aprendre a comunicar un ordinador amb un ESP32 mitjançant el port sèrie USB i controlar un LED amb ordres de text.
 
 Descripció breu
 
@@ -24,7 +22,6 @@ ON → LED encès
 
 OFF → LED apagat
 
-Altres → ordre desconeguda (Comparació de cadenes ignorants majúscules/minúscules)
 
 Enviament de la resposta al Monitor Sèrie.
 
@@ -36,17 +33,6 @@ OFF: apaga el LED.
 
 Gestió del projecte
 
-Projecte GitHub tipus Kanban amb:
-
-To do
-
-Doing
-
-Done
-
-Cada tasca és un Issue etiquetat amb practica1.
-
-En finalitzar una tasca: commit + Closes #issue.
 
 Resultat esperat
 
